@@ -1,0 +1,28 @@
+name: strong again
+favicon: null
+layout_spectrum: 0.8796646727714688
+typography_spectrum: 0.3991088382899761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9001169411931187
+  lightness: 0.20067336899228394
+  saturation: 0.2977216965518892
+  rhythmicContrast: 0.8428484671749175
+purpose: []
